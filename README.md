@@ -4,7 +4,7 @@ It allows users to contribute funds to a project, maintains a list of contributo
 # Features
 1. Contribute Funds: Users can contribute funds to a project by sending Ether to a specific address.
 2. Price Feed Library: The project utilizes a price feed library to fetch current prices, enabling accurate valuation of contributions.
-3 .Withdrawal Mechanism: The project owner can withdraw funds from the project, subject to any applicable rules or restrictions.
+3. Withdrawal Mechanism: The project owner can withdraw funds from the project, subject to any applicable rules or restrictions.
 # Technologies Used
 Solidity: Smart contract language used for the backend implementation.
 React: JavaScript library used for building the user interface.
